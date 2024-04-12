@@ -10,5 +10,6 @@ public class MyFirstApp {
         
         pep.printNameSJ();
 
+        pep.printNamePB();
     }
 }

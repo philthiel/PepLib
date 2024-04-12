@@ -6,4 +6,7 @@ public class Peptide {
         System.out.println("Sophia");
     }
 
+    public void printNamePB() {
+        System.out.println("Patrick Bo.");
+    }
 }
