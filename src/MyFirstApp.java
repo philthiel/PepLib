@@ -4,6 +4,7 @@ public class MyFirstApp {
 
 
 
+
     Peptide pep = new Peptide();
     pep.printNamePT();
 
@@ -15,5 +16,7 @@ public class MyFirstApp {
         pep.printNameSJ();
 
         pep.printNamePB();
+    pep.printnameSH();
+
     }
 }

@@ -1,4 +1,8 @@
 public class Peptide {
+    public void printnameSH() {
+        System.out.println("Shayan Hatami");
+
+    }
 
 
     public void printNamePT() { System.out.println("Philipp Thiel"); }
